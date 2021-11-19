@@ -63,4 +63,4 @@ ggplot(sample_data, aes(x=height)) + geom_density(fill="#69b3a2",color="#e9ecef"
 - Click button `Knit` in R Studio Desktop to save in HTML file. Then, push this file to your github
 
 -----
-Created Template File by [Safe_SIT23](https://github.com/safesit23)
+Created Template File by [Apiwat](https://github.com/ApiwatPhai)
